@@ -27,7 +27,7 @@
     "test": "tape test/*.js | tap-spec"
   },
   "dependencies": {
-    "mri": "workspace:^1.1.6"
+    "mri": "^1.1.6"
   },
   "engines": {
     "node": ">= 6"
